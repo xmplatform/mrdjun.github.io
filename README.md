@@ -1,1 +1,1 @@
-- Hello,World!I always believe meeting is fate,although you a stranger,thank you! I'm a normal Java programmer,but i'm so hard-working and never give up. today is 8/14/2019 .
+- Hello,World! Today is 8/14/2019 when this blog born .
