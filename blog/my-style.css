@@ -1,0 +1,48 @@
+
+.article-block{
+    width:100%;
+    text-align: center;
+    margin: 0 auto;
+    height: 18rem;
+  
+    filter:alpha(Opacity=60);
+    -moz-opacity:0.6;opacity: 0.6
+}
+
+.block-cell-lt{
+    float: left;
+     box-sizing: border-box;
+    width: 48%;
+    height: 100%;
+    /*background-color: blue;*/
+}   
+.block-cell-rt{
+    box-sizing: border-box;
+    float: right;
+    width: 48%;
+    height: 100%;
+    /*background-color: yellow;*/
+}    
+
+.card img {
+    float: left;
+    width: 300px;
+    height: 210px;
+}
+
+.card{
+    height: 100%;
+    width: 100%;
+    /*background-color: white;*/
+    background:#000;
+    /*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+    border-radius: 4px;
+    display: inline-block;
+    /*vertical-align: top;*/
+}
+.card span {
+    font-size: 12px;
+    color: #BFBFBF;
+    display: block;
+    letter-spacing: 2px;
+}
