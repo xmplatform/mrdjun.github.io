@@ -1,5 +1,14 @@
 <h1 align="center">Welcome to FunBoot 👋</h1>
 
+<p align="center">
+<a href="https://github.com/mrdjun/fun-boot"><img alt="JDK" src="https://img.shields.io/badge/JDK-1.8-orange.svg"/></a>
+<a href="http://mrdjun.github.io"><img alt="Author" src="https://img.shields.io/badge/Author-DJun-blue"/></a>
+<a href="https://jq.qq.com/?_wv=1027&k=57LIuZr"><img alt="QQ群" src="https://img.shields.io/badge/chat-Coder%E5%A4%A7%E5%AE%B6%E5%BA%AD-yellow"/>
+</a>
+<a href="https://mrdjun.github.io/">
+<img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" /></a>
+</p>
+
 ### ✨ 简介
 
 > FunBoot是一款带有管理后台和App端让您快速开发的脚手架项目 🏠[文档](https://mrdjun.github.io/) ⬇️[下载](https://github.com/mrdjun/fun-boot) 📚[English Document](https://github.com/chaitin/xray/tree/master/docs/en-us/generic)
