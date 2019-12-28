@@ -19,6 +19,17 @@
   - [Excel导入导出](admin/excel.md)
   - [表单构建工具](admin/table.md)
   - [代码生成工具](admin/code.md)
+  - [Bootstrap-datetimepicker](componenet/bootstrap-datetimepicker.md)
+  - [Bootstrap-duallistbox](componenet/bootstrap-duallistbox.md)
+  - [Bootstrap-fileinput](componenet/bootstrap-fileinput.md)
+  - [Bootstrap-select](componenet/bootstrap-select.md)
+  - [Bootstrap-suggest](componenet/bootstrap-suggest.md)
+  - [Bootstrap-typeahead](componenet/bootstrap-typeahead.md)
+  - [jasny-bootstrap](componenet/jasny-bootstrap.md)
+  - [jquery-validate](componenet/jquery-validate.md)
+  - [layer](componenet/layer.md)
+  - [laydate](componenet/laydate.md)
+  - [select2](componenet/select2.md)
 
 - App端
   
