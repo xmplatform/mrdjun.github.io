@@ -1,5 +1,3 @@
-## bootstrap-duallistbox
-
 bootstrap-duallistbox是一款双重列表框插件
 
 代码演示参考 FUN-BOOT系统 → 实例演示 → 表单元素 → 左右互选组件 `form/duallistbox.html`（项目使用需要引入css和js）

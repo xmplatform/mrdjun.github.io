@@ -1,5 +1,3 @@
-## bootstrap-typeahead
-
 bootstrap-typeahead是一款搜索自动补全插件
 
 代码演示参考 FUN-BOOT系统 → 实例演示 → 表单元素 → 搜索自动补全 `form/autocomplete.html`（项目使用需要引入js）

@@ -1,5 +1,3 @@
-## bootstrap-datetimepicker
-
 bootstrap-datetimepicker是一款时间插件（已经汉化）
 
 代码演示参考 FUN-BOOT系统 → 实例演示 → 表单元素 → 日期与时间 `form/datetime.html`（项目使用需要引入css和js）

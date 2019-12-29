@@ -1,5 +1,3 @@
-## layer
-
 layer是一款web弹层组
 
 代码演示参考 FUN-BOOT系统 → 实例演示 → 表单元素 → 日期与时间 `modal/layer.html`

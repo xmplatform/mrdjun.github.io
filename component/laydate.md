@@ -1,5 +1,3 @@
-## laydate
-
 laydate是一款时间插件
 
 代码演示参考 FUN-BOOT系统 → 实例演示 → 表单元素 → 日期与时间 `form/datetime.html`

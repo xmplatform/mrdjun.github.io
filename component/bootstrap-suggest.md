@@ -1,4 +1,4 @@
-## bootstrap-suggest
+# 
 
 bootstrap-suggest这是一个基于bootstrap按钮式下拉菜单组件的搜索建议插件
 

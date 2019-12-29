@@ -1,5 +1,3 @@
-## bootstrap-select
-
 bootstrap.select.js是一款下拉框插件
 
 代码演示参考 FUN-BOOT系统 → 实例演示 → 表单元素 → 下拉框 `form/select.html`（项目使用需要引入css和js）

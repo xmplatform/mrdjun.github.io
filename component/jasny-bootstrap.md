@@ -1,5 +1,3 @@
-## jasny-bootstrap
-
 jasny.js是一个功能扩展插件（含文件上传）
 
 代码演示参考 FUN-BOOT系统 → 实例演示 → 表单元素 → 功能扩展 `form/jasny.html`（项目使用需要引入css和js）
