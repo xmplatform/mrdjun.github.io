@@ -1,4 +1,4 @@
-# FUN-BOOT<small>1.0.0</small>
+# FUN-BOOT<small>2.0.6</small>
 
 > 一款让您快速开发的SpringBoot脚手架
 

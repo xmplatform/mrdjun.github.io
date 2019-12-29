@@ -1,5 +1,3 @@
-# 
-
 bootstrap-suggest这是一个基于bootstrap按钮式下拉菜单组件的搜索建议插件
 
 代码演示参考 FUN-BOOT系统 → 实例演示 → 表单元素 → 搜索自动补全 `form/autocomplete.html`（项目使用需要引入js）
